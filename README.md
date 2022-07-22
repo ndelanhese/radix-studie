@@ -9,7 +9,7 @@ First, clone this repository on you pc using this command:
 git clone https://github.com/ndelanhese/radix-studie.git
 ```
 
-
+Second, using this commands on you console to run the project:
 ```bash
 yarn # to install all dependencies
 # and
