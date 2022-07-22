@@ -1,5 +1,5 @@
 
-This repository was created by [Delanhese](github.com/ndelanhese/), project developed with [Next.js](https://nextjs.org/)
+This repository was created by [Delanhese](https://github.com/ndelanhese/), project developed with [Next.js](https://nextjs.org/)
 ## Getting Started
 
 First, run the development server:
