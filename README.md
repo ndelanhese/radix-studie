@@ -2,7 +2,13 @@
 This repository was created by [Delanhese](https://github.com/ndelanhese/), project developed with [Next.js](https://nextjs.org/)
 ## Getting Started
 
-First, run the development server:
+First, clone this repository on you pc using this command:
+
+```bash
+# to clone this repository, use this command:
+git clone https://github.com/ndelanhese/radix-studie.git
+```
+
 
 ```bash
 yarn # to install all dependencies
